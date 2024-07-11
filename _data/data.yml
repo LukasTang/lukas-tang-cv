@@ -57,44 +57,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Data professional with 8+ years of success in delivering impactful analytical data science and statistical projects. 
+      Expert in statistical programming, adept at project management, and skilled in communicating complex ideas to diverse stakeholders. 
+      Proven leader in developing statistical models, R package development and as a Product Owner. 
+      Passionate about agile ways of working and adapting to new technologies for optimal project outcomes.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Quantitative Economics
+        university: University of Konstanz
+        time: 2013 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - Specialization in Econometrics
+            - Master Thesis: "Robust Analysis of Dynamic Portfolios using Sparse Covariance Matrix Forecasts"
+      - degree: BSc in Economics
+        university: University of Muenster
+        time: 2010 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Specialization in International Finance
+            - Bachelor Thesis: "Impact of Speculation on Agricultural Commodity Prices"
+            - Exchange Semester at Kozminski University in Warsaw, Poland
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Quant Analyst & Product Owner
+        time: 09/2023 - Present
+        company: UBS, Zurich
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
