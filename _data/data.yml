@@ -81,21 +81,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Quant Analyst & Product Owner
+      - role: Quantitative Analyst & Product Owner
         time: 09/2023 - Present
-        company: UBS, Zurich
+        company: UBS AG, Zurich
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Placeholder in case I want to add bla bla before bullet points
+            - Responsible for Pillar 2 (Stress) / Provisions / Climate Risk Stress Models for the International Residential Mortgages Portfolio (Credit Risk).
+            - Technical Leadership by effectively guiding a cross-functional team of 13 quantitative analysts, software engineers and data engineers in an agile environment.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
