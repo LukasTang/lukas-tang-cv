@@ -83,33 +83,37 @@ experiences:
     info:
       - role: Quantitative Analyst & Product Owner
         time: 09/2023 - Present
-        company: UBS AG, Zurich
+        company: UBS AG, Zurich, Switzerland
         details: |
-          Placeholder in case I want to add bla bla before bullet points
+          Product ownership in an agile set-up, responsible for delivery of:
             - Responsible for Pillar 2 (Stress) / Provisions / Climate Risk Stress Models for the International Residential Mortgages Portfolio (Credit Risk).
+            - Integration of Credit Suisse Models and data for the portfolio
             - Technical Leadership by effectively guiding a cross-functional team of 13 quantitative analysts, software engineers and data engineers in an agile environment.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior Risk Modeler
+        time: 03/2021 - 08/2023
+        company: Credit Suisse AG, Zurich, Switzerland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Responsibilities in context of Pillar-1 model development:
+            - Development of advanced internal ratings-based (A-IRB) models for credit risk predictions.
+            - Leadership in development of internal R packages.
+            - Responsibility for critical relational database concerning credit loss rates, used for model development and model monitoring.
+            - Regulatory topics, e.g. analysis of conservatism of models, regulatory uplifts, model implementation checks.
+      - role: Statistical Modeler
+        time: 07/2018 - 02/2021
+        company: Lowell Financial Services GmbH, Essen, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Responsibilities as part of the portfolio analysis team:
+            - Lead in development of statistical models and machine learning approaches for the prediction of cash flows for the purpose of portfolio re-valuation in the context of debt collection.
+            - Various data-driven projects, e.g. data strategy, support in migration of databases to the cloud, business-cases for new data sources. 
+            - Regular re-valuation of portfolios of non-performing claims.
+      - role: Risk Controller
+        time: 09/2016 - 06/2018
+        company: Santander Consumer Bank AG, Mönchengladbach, Germany
+        details: |
+          Responsibilities as part of the portfolio analysis team:
+            - Lead in development of statistical models and machine learning approaches for the prediction of cash flows for the purpose of portfolio re-valuation in the context of debt collection.
+            - Various data-driven projects, e.g. data strategy, support in migration of databases to the cloud, business-cases for new data sources. 
+            - Regular re-valuation of portfolios of non-performing claims.
 
 certifications:
       title: Certifications
@@ -224,17 +228,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Jira
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: LaTex
+        level: 85%
 
       - name: Ruby on Rails
         level: 85%
