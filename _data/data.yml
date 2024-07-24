@@ -115,6 +115,24 @@ experiences:
             - Various data-driven projects, e.g. data strategy, support in migration of databases to the cloud, business-cases for new data sources. 
             - Regular re-valuation of portfolios of non-performing claims.
 
+certifications:
+      title: Certifications
+      list:
+        - name: Deep Learning Specialization
+          start: 2019
+          end: 2020
+          organization: DeepLearning.AI
+          credentialid: WKGFY6KWSYDR
+          credentialurl: https://www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
+          credentialname: Deep Learning
+          details: |
+            Specialization on Coursera, covering: 
+              - Neural Networks and Deep Learning
+              - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+              - Structuring Machine Learning Projects 
+              - Convolutional Neural Networks
+              - Sequence Models
+
 projects:
     title: Recent Achievements & Engagement
     intro: >
@@ -132,46 +150,6 @@ projects:
         link: "#"
         tagline: "Developed several internal R packages both at Lowell and at Credit Suisse for data management, harmonization of data sourcing, modeling, model monitoring, and visualizations. In that context, I also implement code versioning routines in order to enable other colleagues to contribute to the packages."
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 skills:
     title: Skills &amp; Proficiency
