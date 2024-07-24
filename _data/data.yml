@@ -157,72 +157,22 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Recent Achievements & Engagement
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A selected list of notable projects at work where I took additional responsibilities or personal side projects that I tend to pick up after work.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Master Thesis Advisor (2023)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I was advising a student who is challenging traditional credit risk models using ML and external data at Credit Suisse. He was investigating my idea of applying transfer learning to improve internal models by incorporating models developed based on a larger external dataset."
 
-      - title: Tempo
+      - title: Community Building (2022-2023)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "I noticed that there was little exchange about coding practices and recent developments in the R and Python community at Credit Suisse, and initiated a regular exchange and a community of R coders who want to drive things forward."
 
-      - title: Atom
+      - title: Developer of various internal R packages (2018-2023)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Developed several internal R packages both at Lowell and at Credit Suisse for data management, harmonization of data sourcing, modeling, model monitoring, and visualizations. In that context, I also implement code versioning routines in order to enable other colleagues to contribute to the packages."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
