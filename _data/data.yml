@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Lukas Tang
-    tagline: Quant Analyst & Product Owner
+    tagline: Quant Analyst &amp; Product Owner
     avatar: lukas-tang-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,13 +45,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Camping
           link:
 
-        - item: Cooking
+        - item: Chess
+          link:
+
+        - item: Board Games
+          link:
+
+        - item: Traveling
           link:
 
 career-profile:
@@ -165,6 +171,9 @@ skills:
         level: 85%
 
       - name: LaTex
+        level: 85%
+
+      - name: git 
         level: 85%
 
 footer: >
