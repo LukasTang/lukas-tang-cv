@@ -132,13 +132,7 @@ certifications:
           credentialid: CTAT6U596ARJ
           credentialurl: https://www.coursera.org/account/accomplishments/professional-cert/CTAT6U596ARJ
           credentialname: Project Management
-          details: |
-            Specialization on Coursera, covering: 
-              - Neural Networks and Deep Learning
-              - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-              - Structuring Machine Learning Projects 
-              - Convolutional Neural Networks
-              - Sequence Models
+          details: 
         - name: Deep Learning Specialization
           start: 2019
           end: 2020
@@ -146,13 +140,7 @@ certifications:
           credentialid: WKGFY6KWSYDR
           credentialurl: https://www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
           credentialname: Deep Learning
-          details: |
-            Specialization on Coursera, covering: 
-              - Neural Networks and Deep Learning
-              - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-              - Structuring Machine Learning Projects 
-              - Convolutional Neural Networks
-              - Sequence Models
+          details: 
 
 projects:
     title: Recent Achievements & Engagement
