@@ -130,7 +130,7 @@ certifications:
           end: 2023
           organization: Google
           credentialid: CTAT6U596ARJ
-          credentialurl: https://www.coursera.org/account/accomplishments/professional-cert/CTAT6U596ARJ
+          credentialurl: www.coursera.org/account/accomplishments/professional-cert/CTAT6U596ARJ
           credentialname: Project Management
           details: 
         - name: Deep Learning Specialization
@@ -138,7 +138,7 @@ certifications:
           end: 2020
           organization: DeepLearning.AI
           credentialid: WKGFY6KWSYDR
-          credentialurl: https://www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
+          credentialurl: www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
           credentialname: Deep Learning
           details: 
 
