@@ -133,7 +133,12 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/professional-cert/CTAT6U596ARJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof
           credentialname: Google Project Management
           details: |
-          
+            Specialization on Coursera, covering: 
+              - Neural Networks and Deep Learning
+              - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+              - Structuring Machine Learning Projects 
+              - Convolutional Neural Networks
+              - Sequence Models
         - name: Deep Learning Specialization
           start: 2019
           end: 2020
@@ -142,6 +147,12 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
           credentialname: Deep Learning
           details: |
+            Specialization on Coursera, covering: 
+              - Neural Networks and Deep Learning
+              - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+              - Structuring Machine Learning Projects 
+              - Convolutional Neural Networks
+              - Sequence Models
 
 projects:
     title: Recent Achievements & Engagement
