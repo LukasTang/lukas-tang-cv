@@ -63,10 +63,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data professional with 8+ years of success in delivering impactful analytical data science and statistical projects. 
-      Expert in statistical programming, adept at project management, and skilled in communicating complex ideas to diverse stakeholders. 
-      Proven leader in developing statistical models, R package development and as a Product Owner. 
-      Passionate about agile ways of working and adapting to new technologies for optimal project outcomes.
+    Data professional with 8+ years of success in delivering impactful analytical data science and statistical projects. Expert in statistical programming, adept at project management, and skilled in communicating complex ideas to diverse stakeholders. With a strong analytical foundation rooted in a quantitative-focused economics background, particularly in econometrics, I bring a deep understanding of data-driven decision-making. Proven leader in developing statistical models, R package development, and as a Product Owner. A collaborative team player with effective communication skills, passionate about agile ways of working and adapting to new technologies for optimal project outcomes.
 education:
     title: Education
     info:
@@ -164,6 +161,9 @@ skills:
       - name: R
         level: 98%
 
+      - name: SQL
+        level: 98%
+
       - name: Jira
         level: 98%
 
@@ -174,6 +174,9 @@ skills:
         level: 85%
 
       - name: git 
+        level: 85%
+
+      - name: SAS
         level: 85%
 
 footer: >
