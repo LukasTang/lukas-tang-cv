@@ -63,11 +63,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data professional with 8+ years of success in delivering impactful analytical data science and statistical projects. 
-      Expert in statistical programming, adept at project management, and skilled in communicating complex ideas to diverse stakeholders. 
-      With a strong analytical foundation rooted in a quantitative-focused economics background, particularly in econometrics, I bring a deep understanding of data-driven decision-making. 
-      Proven leader in developing statistical models, R package development, and as a Product Owner. 
-      A collaborative team player with effective communication skills, passionate about agile ways of working and adapting to new technologies for optimal project outcomes.
+    Data professional with 8+ years of success in delivering impactful analytical data science and statistical projects. 
+    Expert in statistical programming, adept at project management, and skilled in communicating complex ideas to diverse stakeholders. 
+    With a strong analytical foundation rooted in a quantitative-focused economics background, particularly in econometrics, I bring a deep understanding of data-driven decision-making. 
+    Proven leader in developing statistical models, R package development, and as a Product Owner. 
+    A collaborative team player with effective communication skills, passionate about agile ways of working and adapting to new technologies for optimal project outcomes.
 education:
     title: Education
     info:
@@ -125,13 +125,13 @@ experiences:
 certifications:
       title: Certifications
       list:
-         - name: Google Project Management
-          start: 2022
-          end: 2023
-          organization: Google
-          credentialid: CTAT6U596ARJ?
-          credentialurl: https://www.coursera.org/account/accomplishments/professional-cert/CTAT6U596ARJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof
-          credentialname: Google Project Management
+        - name: Deep Learning Specialization
+          start: 2019
+          end: 2020
+          organization: DeepLearning.AI
+          credentialid: WKGFY6KWSYDR
+          credentialurl: https://www.coursera.org/account/accomplishments/specialization/certificate/WKGFY6KWSYDR
+          credentialname: Deep Learning
           details: |
             Specialization on Coursera, covering: 
               - Neural Networks and Deep Learning
@@ -139,7 +139,6 @@ certifications:
               - Structuring Machine Learning Projects 
               - Convolutional Neural Networks
               - Sequence Models
-              
         - name: Deep Learning Specialization
           start: 2019
           end: 2020
