@@ -164,7 +164,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R (incl. h2o)
+      - name: R (incl. h2o & package development)
         level: 98%
 
       - name: SQL
