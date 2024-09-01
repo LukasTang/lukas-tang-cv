@@ -164,7 +164,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R
+      - name: R (incl. h2o)
         level: 98%
 
       - name: SQL
@@ -173,7 +173,7 @@ skills:
       - name: Jira
         level: 98%
 
-      - name: Python
+      - name: Python (incl. scikit-learn, TensorFlow, Keras)
         level: 85%
 
       - name: LaTex
