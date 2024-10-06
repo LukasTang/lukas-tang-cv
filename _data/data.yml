@@ -117,11 +117,10 @@ experiences:
         time: 09/2016 - 06/2018
         company: Santander Consumer Bank AG, Mönchengladbach, Germany
         details: |
-          Responsibilities as part of the portfolio analysis team:
-            - Lead in development of statistical models and machine learning approaches for the prediction of cash flows for the purpose of portfolio re-valuation in the context of debt collection.
-            - Various data-driven projects, e.g. data strategy, support in migration of databases to the cloud, business-cases for new data sources. 
-            - Regular re-valuation of portfolios of non-performing claims.
-
+        Responsibilities in Risk Controlling departnment: 
+            - Support in then-ongoing IFRS-9 implementaion project.
+            - Creation and automation of regular risk reports.
+            - Development of models for Loan-Loss-Provision forecasting.
 certifications:
       title: Certifications
       list:
